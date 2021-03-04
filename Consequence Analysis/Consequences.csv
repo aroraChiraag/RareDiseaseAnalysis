@@ -1,0 +1,520 @@
+ID,OrphaCode,DisorderName,DisorderType,GroupID,GroupName,Count,DDA,DDAFreq,DDASeverity
+230,893,WAGR syndrome,Malformation syndrome,36547,Disorder,91,Seeing/watching,Very frequent,Moderate
+3716,503,Larsen syndrome,Malformation syndrome,36547,Disorder,10,Hearing/listening,Frequent,Moderate
+219,894,Waardenburg syndrome type 1,Clinical subtype,36554,Subtype of disorder,32,"Managing one's health (diet, medications, prevention, needs, assistance, monitoring)",Frequent,Moderate
+220,895,Waardenburg syndrome type 2,Clinical subtype,36554,Subtype of disorder,32,Hearing/listening,Very frequent,Moderate
+959,897,Waardenburg-Shah syndrome,Disease,36547,Disorder,36,Hearing/listening,Very frequent,Moderate
+10313,33226,Waldenstr�m macroglobulinemia,Disease,36547,Disorder,48,Seeing/watching,Occasional,Unspecified
+3033,3449,Weill-Marchesani syndrome,Malformation syndrome,36547,Disorder,8,Seeing/watching,Frequent,Unspecified
+759,900,Granulomatosis with polyangiitis,Disease,36547,Disorder,43,Standing,Occasional,Low
+960,902,Werner syndrome,Disease,36547,Disorder,25,Speaking,Very frequent,Unspecified
+14544,99971,Well-differentiated liposarcoma,Histopathological subtype,36554,Subtype of disorder,55,Standing,Very frequent,Severe
+839,2314,Autosomal dominant hyper-IgE syndrome,Disease,36547,Disorder,9,Taking part in community life,Occasional,Moderate
+5543,428,Autosomal dominant hypocalcemia,Clinical subtype,36554,Subtype of disorder,7,"Performing vigorous activities (climbing, running, jumping, swimming,...)",Frequent,Low
+894,3451,West syndrome,Clinical syndrome,36547,Disorder,111,Seeing/watching,Very frequent,Low
+145,904,Williams syndrome,Malformation syndrome,36547,Disorder,78,Seeing/watching,Frequent,Low
+134,905,Wilson disease,Disease,36547,Disorder,68,Walking short distances,Occasional,Severe
+812,3463,Wolfram syndrome,Disease,36547,Disorder,55,Learning a profession (vocational training/apprenticeship) in the standard environment,Very frequent,Severe
+1461,1215,Autosomal dominant optic atrophy plus syndrome,Disease,36547,Disorder,67,Receiving nonverbal messages,Frequent,Moderate
+13690,98673,"Autosomal dominant optic atrophy, classic form",Disease,36547,Disorder,46,Seeing/watching,Very frequent,Severe
+13880,98863,X-linked Emery-Dreifuss muscular dystrophy,Etiological subtype,36554,Subtype of disorder,42,Writing,Occasional,Low
+14786,101075,X-linked Charcot-Marie-Tooth disease type 1,Disease,36547,Disorder,42,"Performing vigorous activities (climbing, running, jumping, swimming,...)",Very frequent,Unspecified
+16884,139396,X-linked cerebral adrenoleukodystrophy,Clinical subtype,36554,Subtype of disorder,82,Seeing/watching,Very frequent,Severe
+293,861,Treacher-Collins syndrome,Malformation syndrome,36547,Disorder,69,Seeing/watching,Occasional,Unspecified
+10319,33364,Trichothiodystrophy,Disease,36547,Disorder,98,Seeing/watching,Occasional,Moderate
+19764,254693,Partial hydatidiform mole,Clinical subtype,36554,Subtype of disorder,5,Handling emotions and mood,Very frequent,Moderate
+3713,2542,Isolated microphthalmia-anophthalmia-coloboma,Clinical group,36540,Group of disorders,63,Moving around within the home,Frequent,Unspecified
+19593,250923,Isolated aniridia,Morphological anomaly,36547,Disorder,43,Seeing/watching,Very frequent,Complete
+1231,3375,Trisomy X,Malformation syndrome,36547,Disorder,77,Acquiring language,Frequent,Unspecified
+660,805,Tuberous sclerosis complex,Disease,36547,Disorder,140,Seeing/watching,Occasional,Low
+18394,199302,Isolated cleft lip,Morphological anomaly,36547,Disorder,17,"Caring for body parts (skin, teeth, nails, hair, genitals)",Frequent,Moderate
+20071,263553,Peeling skin syndrome type B,Clinical subtype,36554,Subtype of disorder,42,Focusing attention,Frequent,Moderate
+44,881,Turner syndrome,Malformation syndrome,36547,Disorder,33,Hearing/listening,Frequent,Severe
+14210,99413,Turner syndrome due to structural X chromosome anomalies,Etiological subtype,36554,Subtype of disorder,33,Hearing/listening,Frequent,Severe
+2983,3366,Isolated trigonocephaly,Morphological anomaly,36547,Disorder,6,Interacting with other people,Very frequent,Moderate
+2641,2924,Isolated polycystic liver disease,Malformation syndrome,36547,Disorder,3,Doing housework,Occasional,Low
+12793,96169,Koolen-De Vries syndrome,Malformation syndrome,36547,Disorder,72,Participating in a conversation,Frequent,Moderate
+139,739,Prader-Willi syndrome,Disease,36547,Disorder,119,Using communication devices,Frequent,Unspecified
+10326,33543,Kleine-Levin syndrome,Disease,36547,Disorder,107,Seeing/watching,Frequent,Moderate
+1061,133,Chronic beryllium disease,Disease,36547,Disorder,39,Communicating with others,Occasional,Low
+42,461,Recessive X-linked ichthyosis,Disease,36547,Disorder,19,Acquiring language,Occasional,Moderate
+2684,2978,Chronic intestinal pseudoobstruction,Clinical syndrome,36547,Disorder,85,Hearing/listening,Occasional,Moderate
+20909,294422,Chronic intestinal failure,Clinical syndrome,36547,Disorder,55,Speaking,Occasional,Moderate
+117,501,Lafora disease,Disease,36547,Disorder,84,Speaking,Very frequent,Complete
+21817,324964,Chronic nonbacterial osteomyelitis/Chronic recurrent multifocal osteomyelitis,Disease,36547,Disorder,23,"Performing vigorous activities (climbing, running, jumping, swimming,...)",Occasional,Moderate
+19173,231226,Dominant beta-thalassemia,Clinical subtype,36554,Subtype of disorder,109,Acquiring language,Occasional,Low
+12438,93605,Classic Bartter syndrome,Clinical subtype,36554,Subtype of disorder,25,Learning to read,Occasional,Moderate
+19545,247775,Mayer-Rokitansky-K�ster-Hauser syndrome type 1,Clinical subtype,36554,Subtype of disorder,5,Making/keeping friends,Occasional,Low
+13835,98818,Landau-Kleffner syndrome,Disease,36547,Disorder,64,Using communication devices,Very frequent,Severe
+10583,43393,Lambert-Eaton myasthenic syndrome,Disease,36547,Disorder,25,Walking long distances,Frequent,Moderate
+665,244,Primary ciliary dyskinesia,Disease,36547,Disorder,65,Hearing/listening,Very frequent,Moderate
+3250,633,Laron syndrome,Disease,36547,Disorder,128,Acquiring language,Frequent,Low
+370,626,Large congenital melanocytic nevus,Disease,36547,Disorder,54,Acquiring language,Occasional,Moderate
+381,773,Refsum disease,Disease,36547,Disorder,103,Seeing/watching,Very frequent,Severe
+874,186,Primary biliary cholangitis,Disease,36547,Disorder,32,Walking long distances,Frequent,Moderate
+10801,60032,Recurrent respiratory papillomatosis,Disease,36547,Disorder,28,Speaking,Frequent,Moderate
+12791,96167,Recombinant 8 syndrome,Malformation syndrome,36547,Disorder,82,Bending,Very frequent,Severe
+294,308,Unverricht-Lundborg disease,Malformation syndrome,36547,Disorder,113,Regulating urination,Very frequent,Low
+12501,93941,Laryngotracheoesophageal cleft type 4,Clinical subtype,36554,Subtype of disorder,34,Speaking,Very frequent,Moderate
+12498,93938,Laryngotracheoesophageal cleft type 1,Clinical subtype,36554,Subtype of disorder,12,Speaking,Occasional,Low
+12500,93940,Laryngotracheoesophageal cleft type 3,Clinical subtype,36554,Subtype of disorder,21,Speaking,Frequent,Moderate
+12499,93939,Laryngotracheoesophageal cleft type 2,Clinical subtype,36554,Subtype of disorder,14,Speaking,Occasional,Low
+22216,357220,Primary essential cutis verticis gyrata,Disease,36547,Disorder,10,"Caring for body parts (skin, teeth, nails, hair, genitals)",Very frequent,Low
+967,888,Van der Woude syndrome,Malformation syndrome,36547,Disorder,7,Hearing/listening,Frequent,Low
+17077,141291,Cleft lip and alveolus,Morphological anomaly,36547,Disorder,17,"Caring for body parts (skin, teeth, nails, hair, genitals)",Frequent,Moderate
+12168,93111,HNF1B-related autosomal dominant tubulointerstitial kidney disease,Clinical subtype,36554,Subtype of disorder,38,Acquiring language,Occasional,Unspecified
+19168,231178,Usher syndrome type 2,Clinical subtype,36554,Subtype of disorder,59,Seeing/watching,Frequent,Low
+19167,231169,Usher syndrome type 1,Clinical subtype,36554,Subtype of disorder,85,Engaging in paid work in a supported/sheltered environment,Occasional,Moderate
+19169,231183,Usher syndrome type 3,Clinical subtype,36554,Subtype of disorder,37,Seeing/watching,Very frequent,Severe
+10453,39044,Uveal melanoma,Disease,36547,Disorder,22,Seeing/watching,Occasional,Unspecified
+11265,79239,Classic galactosemia,Disease,36547,Disorder,41,Acquiring language,Occasional,Low
+19331,240071,Classic progressive supranuclear palsy syndrome,Clinical subtype,36554,Subtype of disorder,108,Looking after/helping others,Very frequent,Complete
+11280,79254,Classic phenylketonuria,Clinical subtype,36554,Subtype of disorder,17,Focusing attention,Occasional,Low
+3400,2584,Classic mycosis fungoides,Disease,36547,Disorder,36,Focusing attention,Frequent,Unspecified
+10307,33069,Dravet syndrome,Disease,36547,Disorder,114,Acquiring language,Frequent,Severe
+116,870,Down syndrome,Malformation syndrome,36547,Disorder,111,Controlling one's own general behaviour,Occasional,Unspecified
+477,1775,Dyskeratosis congenita,Disease,36547,Disorder,16,Seeing/watching,Occasional,Unspecified
+1645,190,Coats disease,Disease,36547,Disorder,13,Seeing/watching,Frequent,Low
+472,235,Dubowitz syndrome,Malformation syndrome,36547,Disorder,87,Seeing/watching,Occasional,Moderate
+14345,99772,Cleft velum,Morphological anomaly,36547,Disorder,9,Using communication devices,Occasional,Moderate
+12432,93599,Primary hyperoxaluria type 2,Clinical subtype,36554,Subtype of disorder,60,Walking short distances,Occasional,Moderate
+12431,93598,Primary hyperoxaluria type 1,Clinical subtype,36554,Subtype of disorder,60,Seeing/watching,Occasional,Moderate
+17766,168491,Late infantile neuronal ceroid lipofuscinosis,Disease,36547,Disorder,79,Seeing/watching,Very frequent,Severe
+18496,206443,Late-infantile/juvenile Krabbe disease,Clinical subtype,36554,Subtype of disorder,93,Seeing/watching,Frequent,Moderate
+12008,90321,Cockayne syndrome type 1,Clinical subtype,36554,Subtype of disorder,186,Learning to calculate,Frequent,Severe
+12009,90322,Cockayne syndrome type 2,Clinical subtype,36554,Subtype of disorder,168,Seeing/watching,Frequent,Severe
+445,193,Cohen syndrome,Malformation syndrome,36547,Disorder,131,Seeing/watching,Very frequent,Unspecified
+1665,1493,Vici syndrome,Malformation syndrome,36547,Disorder,89,Seeing/watching,Frequent,Severe
+11337,79311,Vitamin B12-responsive methylmalonic acidemia type cblB,Clinical subtype,36554,Subtype of disorder,152,Seeing/watching,Occasional,Unspecified
+11336,79310,Vitamin B12-responsive methylmalonic acidemia type cblA,Clinical subtype,36554,Subtype of disorder,131,Acquiring language,Frequent,Severe
+885,2382,Lennox-Gastaut syndrome,Disease,36547,Disorder,138,Acquiring language,Frequent,Severe
+16684,137605,Legius syndrome,Malformation syndrome,36547,Disorder,5,Focusing attention,Occasional,Low
+1784,1782,Dysosteosclerosis,Malformation syndrome,36547,Disorder,96,Learning to read,Occasional,Moderate
+14291,99718,Leber plus disease,Disease,36547,Disorder,62,Seeing/watching,Very frequent,Moderate
+167,104,Leber hereditary optic neuropathy,Disease,36547,Disorder,59,Seeing/watching,Very frequent,Severe
+3243,65,Leber congenital amaurosis,Disease,36547,Disorder,23,Seeing/watching,Very frequent,Unspecified
+10385,35689,Primary lateral sclerosis,Disease,36547,Disorder,45,Handling objects (fine hand use),Frequent,Moderate
+11097,77240,Primary lymphedema,Category,36540,Group of disorders,31,Maintaining a standing position,Occasional,Moderate
+783,171,Primary sclerosing cholangitis,Disease,36547,Disorder,22,Walking long distances,Occasional,Low
+13955,98938,Colobomatous microphthalmia,Malformation syndrome,36547,Disorder,63,Seeing/watching,Frequent,Unspecified
+8708,49,Penile agenesis,Morphological anomaly,36547,Disorder,4,Engaging in sexual relationships,Frequent,Moderate
+558,705,Pendred syndrome,Malformation syndrome,36547,Disorder,23,Travelling,Very frequent,Low
+20777,289916,Vitamin B12-unresponsive methylmalonic acidemia type mut0,Clinical subtype,36554,Subtype of disorder,131,Acquiring language,Frequent,Severe
+91,778,Rett syndrome,Disease,36547,Disorder,92,Seeing/watching,Very frequent,Moderate
+11941,90050,Retinopathy of prematurity,Disease,36547,Disorder,170,Seeing/watching,Occasional,Low
+17617,166096,Von Willebrand disease type 3,Clinical subtype,36554,Subtype of disorder,90,Standing,Frequent,Severe
+17612,166081,Von Willebrand disease type 2,Clinical subtype,36554,Subtype of disorder,47,Travelling,Frequent,Moderate
+17611,166078,Von Willebrand disease type 1,Clinical subtype,36554,Subtype of disorder,47,Standing,Occasional,Moderate
+19281,238606,Primary orthostatic tremor,Disease,36547,Disorder,30,Maintaining a standing position,Very frequent,Severe
+197,510,Lesch-Nyhan syndrome,Disease,36547,Disorder,72,Socializing,Very frequent,Low
+659,791,Retinitis pigmentosa,Disease,36547,Disorder,47,Seeing/watching,Very frequent,Complete
+14212,99429,Complete androgen insensitivity syndrome,Disease,36547,Disorder,6,Engaging in and maintaining intimate relationships,Frequent,Unspecified
+19763,254688,Complete hydatidiform mole,Clinical subtype,36554,Subtype of disorder,5,Handling emotions and mood,Very frequent,Moderate
+12201,93258,Pfeiffer syndrome type 1,Clinical subtype,36554,Subtype of disorder,21,Seeing/watching,Occasional,Low
+12203,93260,Pfeiffer syndrome type 3,Clinical subtype,36554,Subtype of disorder,57,Seeing/watching,Occasional,Low
+19334,240103,Progressive supranuclear palsy-corticobasal syndrome,Clinical subtype,36554,Subtype of disorder,120,Maintaining head position,Very frequent,Moderate
+19332,240085,Progressive supranuclear palsy-parkinsonism syndrome,Clinical subtype,36554,Subtype of disorder,45,Walking long distances,Very frequent,Severe
+19333,240094,Progressive supranuclear palsy-pure akinesia with gait freezing syndrome,Clinical subtype,36554,Subtype of disorder,109,Seeing/watching,Frequent,Moderate
+1460,1214,Progressive hemifacial atrophy,Disease,36547,Disorder,30,Seeing/watching,Occasional,Low
+18037,178509,Perry syndrome,Disease,36547,Disorder,56,Thinking and reasoning,Occasional,Low
+353,1947,"Progressive epilepsy-intellectual disability syndrome, Finnish type",Disease,36547,Disorder,82,Seeing/watching,Occasional,Moderate
+648,418,Congenital adrenal hyperplasia,Clinical group,36540,Group of disorders,29,"Managing one's health (diet, medications, prevention, needs, assistance, monitoring)",Very frequent,Unspecified
+11567,83420,Proximal spinal muscular atrophy type 4,Clinical subtype,36554,Subtype of disorder,39,Producing nonverbal messages,Occasional,Low
+566,2970,Prune belly syndrome,Malformation syndrome,36547,Disorder,7,Changing body position,Occasional,Unspecified
+11566,83419,Proximal spinal muscular atrophy type 3,Clinical subtype,36554,Subtype of disorder,65,Learning to write,Occasional,Low
+11565,83418,Proximal spinal muscular atrophy type 2,Clinical subtype,36554,Subtype of disorder,50,Writing messages,Frequent,Severe
+3557,35,Propionic acidemia,Disease,36547,Disorder,90,Taking part in community life,Frequent,Severe
+3387,2965,Prolactinoma,Disease,36547,Disorder,3,Handling emotions and mood,Frequent,Moderate
+1727,742,Prolidase deficiency,Disease,36547,Disorder,116,Acquiring language,Frequent,Low
+1481,115,Congenital contractural arachnodactyly,Malformation syndrome,36547,Disorder,34,Changing body position,Frequent,Low
+10845,64741,Pulmonary blastoma,Disease,36547,Disorder,5,Walking short distances,Occasional,Unspecified
+10804,60039,Pudendal neuralgia,Disease,36547,Disorder,55,"Handling stress, responsabilities, emergencies and ensuring one's safety",Occasional,Low
+629,54,X-linked recessive ocular albinism,Disease,36547,Disorder,9,Moving around outside the home,Frequent,Moderate
+11724,85453,X-linked reticulate pigmentary disorder,Disease,36547,Disorder,20,Seeing/watching,Very frequent,Severe
+2177,2322,Kabuki syndrome,Malformation syndrome,36547,Disorder,160,Washing oneself,Occasional,Moderate
+3249,478,Kallmann syndrome,Clinical subtype,36554,Subtype of disorder,11,Hearing/listening,Occasional,Low
+155,792,X-linked retinoschisis,Malformation syndrome,36547,Disorder,18,Seeing/watching,Very frequent,Severe
+169,481,Kennedy disease,Disease,36547,Disorder,51,Dressing/undressing,Frequent,Moderate
+11259,79233,Hypoxanthine guanine phosphoribosyltransferase partial deficiency,Disease,36547,Disorder,71,Acquiring language,Very frequent,Unspecified
+61,480,Kearns-Sayre syndrome,Disease,36547,Disorder,88,Seeing/watching,Very frequent,Severe
+12020,90342,Xeroderma pigmentosum variant,Disease,36547,Disorder,37,Dressing/undressing,Very frequent,Low
+3253,910,Xeroderma pigmentosum,Disease,36547,Disorder,119,Seeing/watching,Occasional,Severe
+12056,90647,Jervell and Lange-Nielsen syndrome,Disease,36547,Disorder,31,Hearing/listening,Very frequent,Moderate
+518,2308,Jacobsen syndrome,Malformation syndrome,36547,Disorder,109,Regulating urination,Frequent,Moderate
+10376,35173,X-linked dominant chondrodysplasia punctata,Disease,36547,Disorder,16,Seeing/watching,Frequent,Moderate
+283,474,Jeune syndrome,Malformation syndrome,36547,Disorder,13,Seeing/watching,Occasional,Severe
+2510,2754,Orofaciodigital syndrome type 6,Malformation syndrome,36547,Disorder,73,Acquiring language,Very frequent,Severe
+19562,248111,Juvenile Huntington disease,Disease,36547,Disorder,118,Cooking/preparing meals,Frequent,Complete
+12464,93672,Juvenile dermatomyositis,Disease,36547,Disorder,81,Learning to read,Occasional,Moderate
+101,1941,Juvenile absence epilepsy,Disease,36547,Disorder,26,Focusing attention,Occasional,Low
+11713,85436,Psoriasis-related juvenile idiopathic arthritis,Disease,36547,Disorder,21,Seeing/watching,Occasional,Low
+12410,93568,Juvenile polymyositis,Disease,36547,Disorder,59,Learning to read,Occasional,Moderate
+11290,79264,Juvenile neuronal ceroid lipofuscinosis,Disease,36547,Disorder,77,Seeing/watching,Very frequent,Severe
+12466,93685,Unicentric Castleman disease,Clinical subtype,36554,Subtype of disorder,118,Acquiring language,Occasional,Severe
+12484,93924,Lobar holoprosencephaly,Clinical subtype,36554,Subtype of disorder,112,Moving around outside the home,Frequent,Severe
+12000,90289,Localized scleroderma,Disease,36547,Disorder,57,Standing,Occasional,Low
+11281,79255,GM1 gangliosidosis type 1,Clinical subtype,36554,Subtype of disorder,76,Carrying out daily routines,Very frequent,Complete
+11283,79257,GM1 gangliosidosis type 3,Clinical subtype,36554,Subtype of disorder,48,Playing with others,Very frequent,Moderate
+21841,325448,Leydig cell hypoplasia due to LHB deficiency,Clinical subtype,36554,Subtype of disorder,4,Engaging in sexual relationships,Frequent,Moderate
+741,755,Leydig cell hypoplasia,Disease,36547,Disorder,4,Engaging in sexual relationships,Frequent,Moderate
+12835,96266,Leydig cell hypoplasia due to partial LH resistance,Clinical subtype,36554,Subtype of disorder,4,Engaging in sexual relationships,Frequent,Moderate
+12834,96265,Leydig cell hypoplasia due to complete LH resistance,Clinical subtype,36554,Subtype of disorder,4,Engaging in sexual relationships,Frequent,Moderate
+11263,79237,Galactokinase deficiency,Disease,36547,Disorder,69,Seeing/watching,Occasional,Severe
+8580,525,Lichen planopilaris,Disease,36547,Disorder,24,Dealing with strangers,Occasional,Severe
+11104,77261,Gaucher disease type 3,Clinical subtype,36554,Subtype of disorder,76,Regulating defecation,Occasional,Unspecified
+1989,2072,Gaucher disease-ophthalmoplegia-cardiovascular calcification syndrome,Clinical subtype,36554,Subtype of disorder,9,Seeing/watching,Occasional,Low
+11102,77259,Gaucher disease type 1,Clinical subtype,36554,Subtype of disorder,46,Standing,Occasional,Severe
+18907,220407,Limited systemic sclerosis,Clinical subtype,36554,Subtype of disorder,112,Playing with others,Frequent,Severe
+18906,220402,Limited cutaneous systemic sclerosis,Clinical subtype,36554,Subtype of disorder,112,Standing,Occasional,Low
+278,565,Menkes disease,Disease,36547,Disorder,64,Seeing/watching,Occasional,Complete
+7033,2902,Idiopathic chronic eosinophilic pneumonia,Disease,36547,Disorder,78,Focusing attention,Frequent,Low
+8751,88,Idiopathic aplastic anemia,Disease,36547,Disorder,19,Walking short distances,Frequent,Low
+16892,139423,Idiopathic acute transverse myelitis,Clinical subtype,36554,Subtype of disorder,114,Learning to read,Occasional,Unspecified
+302,930,Idiopathic achalasia,Disease,36547,Disorder,8,Eating,Occasional,Low
+1847,1879,Melorheostosis with osteopoikilosis,Malformation syndrome,36547,Disorder,51,Learning to write,Frequent,Moderate
+2298,2485,Melorheostosis,Malformation syndrome,36547,Disorder,51,Handling objects (fine hand use),Frequent,Moderate
+11529,79503,Ichthyosis hystrix of Curth-Macklin,Disease,36547,Disorder,43,Learning to write,Very frequent,Moderate
+10805,60040,Megalencephaly-capillary malformation-polymicrogyria syndrome,Malformation syndrome,36547,Disorder,274,"Caring for body parts (skin, teeth, nails, hair, genitals)",Frequent,Low
+3751,616,Medulloblastoma,Disease,36547,Disorder,94,Making decisions/taking initiatives/finding solutions,Frequent,Moderate
+21338,309025,Mevalonate kinase deficiency,Clinical group,36540,Group of disorders,196,Engaging in and maintaining intimate relationships,Occasional,Low
+889,1934,Early infantile epileptic encephalopathy,Clinical syndrome,36547,Disorder,28,Seeing/watching,Frequent,Moderate
+112,512,Metachromatic leukodystrophy,Disease,36547,Disorder,83,Doing housework,Very frequent,Complete
+21363,309263,"Metachromatic leukodystrophy, juvenile form",Clinical subtype,36554,Subtype of disorder,84,Seeing/watching,Very frequent,Severe
+7029,2032,Idiopathic pulmonary fibrosis,Disease,36547,Disorder,78,Focusing attention,Frequent,Low
+784,3002,Immune thrombocytopenia,Disease,36547,Disorder,16,"Performing vigorous activities (climbing, running, jumping, swimming,...)",Occasional,Moderate
+700,732,Polymyositis,Disease,36547,Disorder,68,Standing,Frequent,Moderate
+880,3006,Pyridoxine-dependent epilepsy,Disease,36547,Disorder,149,Receiving written messages,Frequent,Moderate
+3403,767,Polyarteritis nodosa,Disease,36547,Disorder,36,Cooking/preparing meals,Occasional,Low
+11590,83597,Acute disseminated encephalomyelitis,Disease,36547,Disorder,114,Acquiring language,Frequent,Unspecified
+10613,48104,Pyoderma gangrenosum,Disease,36547,Disorder,47,Standing,Frequent,Moderate
+571,763,Pycnodysostosis,Disease,36547,Disorder,25,Practicing sports,Occasional,Low
+10748,54247,Posterior cortical atrophy,Disease,36547,Disorder,80,Engaging in paid work in a standard environment,Very frequent,Complete
+16885,139399,Adrenomyeloneuropathy,Clinical subtype,36554,Subtype of disorder,42,Changing body position,Very frequent,Severe
+18497,206448,Adult Krabbe disease,Clinical subtype,36554,Subtype of disorder,36,Driving,Frequent,Moderate
+18528,206583,Adult polyglucosan body disease,Clinical subtype,36554,Subtype of disorder,25,Focusing attention,Occasional,Low
+11288,79262,Adult neuronal ceroid lipofuscinosis,Disease,36547,Disorder,79,Seeing/watching,Occasional,Unspecified
+11715,85438,Enthesitis-related juvenile idiopathic arthritis,Disease,36547,Disorder,11,Standing,Occasional,Low
+59,261,Emery-Dreifuss muscular dystrophy,Disease,36547,Disorder,42,Writing,Occasional,Low
+540,560,Marshall syndrome,Malformation syndrome,36547,Disorder,26,Seeing/watching,Very frequent,Low
+4042,286,Vascular Ehlers-Danlos syndrome,Disease,36547,Disorder,29,Walking,Frequent,Moderate
+11626,85138,Addison disease,Disease,36547,Disorder,7,"Performing vigorous activities (climbing, running, jumping, swimming,...)",Frequent,Moderate
+20628,284963,Marfan syndrome type 1,Clinical subtype,36554,Subtype of disorder,51,Doing housework,Frequent,Moderate
+20629,284973,Marfan syndrome type 2,Clinical subtype,36554,Subtype of disorder,41,Lifting and carrying objects,Frequent,Moderate
+287,289,Ellis Van Creveld syndrome,Malformation syndrome,36547,Disorder,16,Memorizing and retrieving,Occasional,Moderate
+8577,444,Marie Unna hereditary hypotrichosis,Disease,36547,Disorder,9,Interacting with other people,Frequent,Low
+4043,1900,Kyphoscoliotic Ehlers-Danlos syndrome due to lysyl hydroxylase 1 deficiency,Clinical subtype,36554,Subtype of disorder,45,Writing messages,Occasional,Moderate
+4041,285,Hypermobile Ehlers-Danlos syndrome,Disease,36547,Disorder,65,Interacting with other people,Occasional,Moderate
+3480,2953,Musculocontractural Ehlers-Danlos syndrome,Disease,36547,Disorder,44,Standing,Occasional,Moderate
+612,287,Classical Ehlers-Danlos syndrome,Disease,36547,Disorder,50,Seeing/watching,Occasional,Low
+4044,1899,Arthrochalasia Ehlers-Danlos syndrome,Disease,36547,Disorder,23,Writing,Frequent,Moderate
+10693,52416,Mantle cell lymphoma,Disease,36547,Disorder,31,Shopping,Frequent,Moderate
+1198,1946,Amelocerebrohypohidrotic syndrome,Malformation syndrome,36547,Disorder,78,Acquiring language,Very frequent,Severe
+1328,64,Alstr�m syndrome,Disease,36547,Disorder,60,Being aware of space,Frequent,Moderate
+748,2131,Alternating hemiplegia of childhood,Disease,36547,Disorder,137,Dressing/undressing,Very frequent,Severe
+900,847,Alpha-thalassemia-X-linked intellectual disability syndrome,Disease,36547,Disorder,182,Transferring oneself,Frequent,Low
+50,846,Alpha-thalassemia,Disease,36547,Disorder,10,Shopping,Occasional,Moderate
+19226,232288,Alpha-thalassemia-related diseases,Category,36540,Group of disorders,193,Transferring oneself,Frequent,Low
+630,63,Alport syndrome,Disease,36547,Disorder,25,Seeing/watching,Frequent,Low
+1730,726,Alpers-Huttenlocher syndrome,Disease,36547,Disorder,90,Driving,Very frequent,Severe
+1321,701,Alopecia universalis,Disease,36547,Disorder,37,Focusing attention,Occasional,Low
+8583,700,Alopecia totalis,Disease,36547,Disorder,37,Focusing attention,Occasional,Low
+22344,363717,Alexander disease type I,Clinical subtype,36554,Subtype of disorder,75,Acquiring language,Very frequent,Unspecified
+411,56,Alkaptonuria,Disease,36547,Disorder,144,Hearing/listening,Very frequent,Moderate
+22345,363722,Alexander disease type II,Clinical subtype,36554,Subtype of disorder,67,Acquiring language,Very frequent,Unspecified
+744,1164,Allergic bronchopulmonary aspergillosis,Disease,36547,Disorder,21,Walking short distances,Very frequent,Moderate
+1315,59,Allan-Herndon-Dudley syndrome,Disease,36547,Disorder,73,Acquiring language,Very frequent,Severe
+12485,93925,Alobar holoprosencephaly,Clinical subtype,36554,Subtype of disorder,79,Seeing/watching,Very frequent,Severe
+255,53,Albers-Sch�nberg osteopetrosis,Malformation syndrome,36547,Disorder,13,Seeing/watching,Occasional,Unspecified
+254,50,Aicardi syndrome,Disease,36547,Disorder,88,Seeing/watching,Frequent,Unspecified
+8744,102,Multiple system atrophy,Disease,36547,Disorder,104,Reading,Occasional,Moderate
+19053,227510,"Multiple system atrophy, cerebellar type",Clinical subtype,36554,Subtype of disorder,113,Reading,Occasional,Moderate
+13950,98933,"Multiple system atrophy, parkinsonian type",Clinical subtype,36554,Subtype of disorder,120,Using communication devices,Frequent,Severe
+14017,99000,Adult-onset foveomacular vitelliform dystrophy,Disease,36547,Disorder,10,Shopping,Occasional,Moderate
+5525,829,Adult-onset Still disease,Disease,36547,Disorder,74,Standing,Very frequent,Low
+7037,225,Maternally-inherited diabetes and deafness,Disease,36547,Disorder,19,Seeing/watching,Occasional,Severe
+11041,73247,Eosinophilic esophagitis,Disease,36547,Disorder,5,Handling emotions and mood,Frequent,Moderate
+755,3165,Eosinophilic fasciitis,Disease,36547,Disorder,38,Reaching and catching objects,Frequent,Moderate
+833,2070,Eosinophilic gastroenteritis,Disease,36547,Disorder,3,Handling emotions and mood,Occasional,Unspecified
+17873,169805,Moderately severe hemophilia A,Clinical subtype,36554,Subtype of disorder,23,Engaging in and maintaining intimate relationships,Occasional,Low
+542,570,Moebius syndrome,Disease,36547,Disorder,17,Receiving spoken messages,Occasional,Low
+10874,65684,Monomelic amyotrophy,Disease,36547,Disorder,16,Reaching and catching objects,Occasional,Low
+137,3099,Rheumatic fever,Disease,36547,Disorder,6,Standing,Frequent,Moderate
+14642,100069,Semantic dementia,Disease,36547,Disorder,75,Maintaining head position,Very frequent,Complete
+18904,220386,Semilobar holoprosencephaly,Clinical subtype,36554,Subtype of disorder,84,Seeing/watching,Occasional,Severe
+10664,50944,Sch�pf-Schulz-Passarge syndrome,Disease,36547,Disorder,8,Handling objects (fine hand use),Occasional,Moderate
+773,3129,Sarcosinemia,Disease,36547,Disorder,76,Acquiring language,Very frequent,Moderate
+21353,309155,"Sandhoff disease, infantile form",Clinical subtype,36554,Subtype of disorder,13,Seeing/watching,Very frequent,Severe
+21355,309169,"Sandhoff disease, adult form",Clinical subtype,36554,Subtype of disorder,48,Playing with others,Very frequent,Moderate
+182,644,NARP syndrome,Disease,36547,Disorder,66,Seeing/watching,Frequent,Severe
+106,803,Amyotrophic lateral sclerosis,Disease,36547,Disorder,195,Calculating,Occasional,Low
+10823,63442,Angel-shaped phalango-epiphyseal dysplasia,Malformation syndrome,36547,Disorder,9,Eating,Frequent,Unspecified
+918,754,Androgen insensitivity syndrome,Clinical group,36540,Group of disorders,10,Engaging in and maintaining intimate relationships,Frequent,Unspecified
+131,580,Mucopolysaccharidosis type 2,Disease,36547,Disorder,83,"Managing one's health (diet, medications, prevention, needs, assistance, monitoring)",Very frequent,Severe
+18824,217085,"Mucopolysaccharidosis type 2, severe form",Clinical subtype,36554,Subtype of disorder,91,Seeing/watching,Occasional,Low
+12437,93604,Antenatal Bartter syndrome,Clinical subtype,36554,Subtype of disorder,25,Looking after/helping others,Frequent,Moderate
+261,87,Apert syndrome,Malformation syndrome,36547,Disorder,71,Maintaining family relationships,Occasional,Low
+14727,101016,Romano-Ward syndrome,Disease,36547,Disorder,28,Focusing attention,Occasional,Unspecified
+126,567,22q11.2 deletion syndrome,Malformation syndrome,36547,Disorder,93,Seeing/watching,Occasional,Unspecified
+20357,276223,"Mucopolysaccharidosis type 6, slowly progressing",Clinical subtype,36554,Subtype of disorder,21,Learning,Occasional,Low
+20356,276212,"Mucopolysaccharidosis type 6, rapidly progressing",Clinical subtype,36554,Subtype of disorder,69,Drinking,Occasional,Low
+872,582,Mucopolysaccharidosis type 4,Disease,36547,Disorder,96,Using objects,Very frequent,Moderate
+653,581,Mucopolysaccharidosis type 3,Disease,36547,Disorder,89,Seeing/watching,Frequent,Low
+10716,53271,Muenke syndrome,Malformation syndrome,36547,Disorder,24,Focusing attention,Frequent,Severe
+8714,641,Multifocal motor neuropathy,Disease,36547,Disorder,67,Producing messages in sign language,Frequent,Low
+1780,1772,"45,X/46,XY mixed gonadal dysgenesis",Malformation syndrome,36547,Disorder,29,Engaging in sexual relationships,Frequent,Moderate
+12245,93308,Multiple epiphyseal dysplasia type 1,Disease,36547,Disorder,11,Walking short distances,Frequent,Low
+17597,166002,Multiple epiphyseal dysplasia due to collagen 9 anomaly,Disease,36547,Disorder,11,Walking short distances,Very frequent,Moderate
+22622,391428,"HSD10 disease, infantile type",Clinical subtype,36554,Subtype of disorder,80,Calculating,Very frequent,Severe
+459,23,Argininosuccinic aciduria,Disease,36547,Disorder,130,Acquiring language,Occasional,Low
+14200,99228,Mosaic monosomy X,Etiological subtype,36554,Subtype of disorder,33,Hearing/listening,Frequent,Severe
+12148,91483,Rieger anomaly,Morphological anomaly,36547,Disorder,37,Seeing/watching,Very frequent,Severe
+10630,48652,Monosomy 22q13.3,Malformation syndrome,36547,Disorder,171,Sitting,Frequent,Severe
+14199,99226,Monosomy X,Etiological subtype,36554,Subtype of disorder,33,Hearing/listening,Frequent,Severe
+10887,66629,Goldberg-Shprintzen megacolon syndrome,Malformation syndrome,36547,Disorder,63,Hearing/listening,Frequent,Low
+12546,94065,15q24 microdeletion syndrome,Etiological subtype,36554,Subtype of disorder,78,Moving around within the home,Frequent,Low
+2375,575,Muckle-Wells syndrome,Disease,36547,Disorder,65,Engaging in sexual relationships,Frequent,Moderate
+971,3103,Roberts syndrome,Malformation syndrome,36547,Disorder,85,Seeing/watching,Frequent,Unspecified
+20497,280679,Moyamoya angiopathy-short stature-facial dysmorphism-hypergonadotropic hypogonadism syndrome,Disease,36547,Disorder,75,Thinking and reasoning,Frequent,Unspecified
+2051,2152,Mowat-Wilson syndrome,Malformation syndrome,36547,Disorder,127,Seeing/watching,Frequent,Moderate
+2373,2573,Moyamoya disease,Disease,36547,Disorder,177,Seeing/watching,Occasional,Low
+11279,79253,Mild phenylketonuria,Clinical subtype,36554,Subtype of disorder,6,Shopping,Frequent,Low
+11478,79452,Milroy disease,Disease,36547,Disorder,31,Maintaining a standing position,Occasional,Moderate
+13861,98844,"Classic Hodgkin lymphoma, mixed cellularity type",Histopathological subtype,36554,Subtype of disorder,7,Memorizing and retrieving,Frequent,Unspecified
+1045,358,Gitelman syndrome,Disease,36547,Disorder,74,Shopping,Frequent,Unspecified
+19762,254685,Gestational trophoblastic disease,Category,36540,Group of disorders,23,Handling emotions and mood,Very frequent,Moderate
+10790,59305,Gestational trophoblastic neoplasm,Clinical group,36540,Group of disorders,23,"Handling stress, responsabilities, emergencies and ensuring one's safety",Frequent,Moderate
+876,397,Giant cell arteritis,Disease,36547,Disorder,67,Controlling one's own general behaviour,Occasional,Moderate
+2139,457,Harlequin ichthyosis,Disease,36547,Disorder,51,Seeing/watching,Very frequent,Moderate
+502,2116,Hartnup disease,Disease,36547,Disorder,5,Learning,Occasional,Moderate
+12248,93311,Multiple epiphyseal dysplasia type 5,Disease,36547,Disorder,11,Walking short distances,Frequent,Low
+2037,2138,"46,XX ovotesticular disorder of sex development",Malformation syndrome,36547,Disorder,2,Engaging in and maintaining intimate relationships,Frequent,Moderate
+1011,243,"46,XX gonadal dysgenesis",Malformation syndrome,36547,Disorder,3,Engaging in and maintaining intimate relationships,Frequent,Moderate
+5546,393,"46,XX testicular disorder of sex development",Malformation syndrome,36547,Disorder,2,Engaging in sexual relationships,Frequent,Moderate
+203,752,"46,XY disorder of sex development due to 17-beta-hydroxysteroid dehydrogenase 3 deficiency",Disease,36547,Disorder,8,Engaging in sexual relationships,Frequent,Moderate
+13104,98086,"46,XY disorder of sex development due to a defect in testosterone metabolism by peripheral tissue",Category,36540,Group of disorders,8,Engaging in sexual relationships,Frequent,Moderate
+324,753,"46,XY disorder of sex development due to 5-alpha-reductase 2 deficiency",Disease,36547,Disorder,8,Engaging in sexual relationships,Frequent,Moderate
+719,1163,Aspergillosis,Disease,36547,Disorder,49,Lifting and carrying objects,Occasional,Severe
+5,93,Aspartylglucosaminuria,Disease,36547,Disorder,72,Participating in a conversation,Very frequent,Moderate
+12159,91546,Lyme disease,Disease,36547,Disorder,26,Standing,Occasional,Unspecified
+3386,538,Lymphangioleiomyomatosis,Disease,36547,Disorder,68,Walking short distances,Frequent,Low
+13862,98845,"Classic Hodgkin lymphoma, lymphocyte-rich type",Histopathological subtype,36554,Subtype of disorder,7,Memorizing and retrieving,Frequent,Unspecified
+13863,98846,"Classic Hodgkin lymphoma, lymphocyte-depleted type",Histopathological subtype,36554,Subtype of disorder,7,Memorizing and retrieving,Frequent,Unspecified
+63,550,MELAS,Disease,36547,Disorder,239,Being aware of space,Occasional,Low
+753,727,Microscopic polyangiitis,Disease,36547,Disorder,43,Maintaining a standing position,Occasional,Low
+12486,93926,Midline interhemispheric variant of holoprosencephaly,Clinical subtype,36554,Subtype of disorder,108,Carrying out daily routines,Frequent,Moderate
+2378,2578,Mayer-Rokitansky-K�ster-Hauser syndrome type 2,Clinical subtype,36554,Subtype of disorder,14,Sitting,Occasional,Low
+20361,276244,Machado-Joseph disease type 3,Clinical subtype,36554,Subtype of disorder,63,Seeing/watching,Occasional,Low
+18198,182050,MYH9-related disease,Disease,36547,Disorder,19,Seeing/watching,Occasional,Moderate
+21538,314918,Mild Canavan disease,Clinical subtype,36554,Subtype of disorder,175,Seeing/watching,Frequent,Low
+244,207,Crouzon disease,Malformation syndrome,36547,Disorder,43,Seeing/watching,Frequent,Moderate
+8602,1461,Criss-cross heart,Morphological anomaly,36547,Disorder,11,Moving around within the home,Frequent,Moderate
+11260,79234,Crigler-Najjar syndrome type 1,Clinical subtype,36554,Subtype of disorder,9,"Managing one's health (diet, medications, prevention, needs, assistance, monitoring)",Very frequent,Moderate
+11261,79235,Crigler-Najjar syndrome type 2,Clinical subtype,36554,Subtype of disorder,2,"Managing one's health (diet, medications, prevention, needs, assistance, monitoring)",Occasional,Low
+10756,54595,Craniopharyngioma,Disease,36547,Disorder,59,Staying asleep,Frequent,Moderate
+243,201,Cowden syndrome,Disease,36547,Disorder,129,Acquiring language,Occasional,Unspecified
+13872,98855,Autosomal recessive Emery-Dreifuss muscular dystrophy,Etiological subtype,36554,Subtype of disorder,42,Writing,Occasional,Low
+1056,10,"48,XXYY syndrome",Malformation syndrome,36547,Disorder,247,Learning to read,Occasional,Low
+19642,251510,"46,XY partial gonadal dysgenesis",Malformation syndrome,36547,Disorder,4,Engaging in sexual relationships,Frequent,Moderate
+21838,325345,"46,XY ovotesticular disorder of sex development",Disease,36547,Disorder,9,Engaging in sexual relationships,Frequent,Moderate
+49,586,Cystic fibrosis,Disease,36547,Disorder,67,Practicing sports,Occasional,Low
+5534,2686,Cyclic neutropenia,Disease,36547,Disorder,16,Staying asleep,Occasional,Low
+13860,98843,"Classic Hodgkin lymphoma, nodular sclerosis type",Histopathological subtype,36554,Subtype of disorder,7,Memorizing and retrieving,Frequent,Unspecified
+11775,86893,Nodular lymphocyte predominant Hodgkin lymphoma,Disease,36547,Disorder,7,Memorizing and retrieving,Frequent,Unspecified
+20053,263432,Nevus of Ito,Disease,36547,Disorder,2,Engaging in and maintaining intimate relationships,Occasional,Low
+18805,216986,"Niemann-Pick disease type C, adult neurologic onset",Clinical subtype,36554,Subtype of disorder,64,Hearing/listening,Occasional,Moderate
+487,1915,Fetal alcohol syndrome,Malformation syndrome,36547,Disorder,66,Acquiring language,Frequent,Unspecified
+3564,25,Glutaryl-CoA dehydrogenase deficiency,Disease,36547,Disorder,237,Acquiring language,Frequent,Complete
+1046,2052,Fraser syndrome,Malformation syndrome,36547,Disorder,136,Seeing/watching,Very frequent,Complete
+120,908,Fragile X syndrome,Malformation syndrome,36547,Disorder,91,Acquiring language,Very frequent,Moderate
+12199,93256,Fragile X-associated tremor/ataxia syndrome,Malformation syndrome,36547,Disorder,117,Hearing/listening,Frequent,Moderate
+45,95,Friedreich ataxia,Disease,36547,Disorder,69,Seeing/watching,Frequent,Unspecified
+8750,545,Follicular lymphoma,Disease,36547,Disorder,31,Seeking employment,Frequent,Severe
+1966,2044,Floating-Harbor syndrome,Malformation syndrome,36547,Disorder,124,Seeing/watching,Occasional,Complete
+14643,100070,Progressive non-fluent aphasia,Disease,36547,Disorder,75,Reading,Very frequent,Severe
+185,636,Neurofibromatosis type 1,Disease,36547,Disorder,31,Taking part in community life,Occasional,Low
+183,637,Neurofibromatosis type 2,Disease,36547,Disorder,47,Staying awake,Occasional,Moderate
+563,2901,Neuralgic amyotrophy,Disease,36547,Disorder,34,Engaging in paid work in a standard environment,Very frequent,Severe
+299,199,Cornelia de Lange syndrome,Malformation syndrome,36547,Disorder,210,Speaking,Frequent,Severe
+2523,2770,Nasu-Hakola disease,Malformation syndrome,36547,Disorder,68,Acquiring language,Very frequent,Complete
+3637,2073,Narcolepsy type 1,Disease,36547,Disorder,14,Staying asleep,Very frequent,Severe
+11576,83465,Narcolepsy type 2,Disease,36547,Disorder,14,Staying asleep,Very frequent,Severe
+407,245,Nager syndrome,Malformation syndrome,36547,Disorder,47,Hearing/listening,Very frequent,Severe
+392,2614,Nail-patella syndrome,Malformation syndrome,36547,Disorder,22,Standing,Occasional,Low
+62,269,Facioscapulohumeral dystrophy,Disease,36547,Disorder,122,Speaking,Occasional,Severe
+920,342,Familial Mediterranean fever,Disease,36547,Disorder,53,Standing,Frequent,Moderate
+17538,163746,Peripheral demyelinating neuropathy-central dysmyelinating leukodystrophy-Waardenburg syndrome-Hirschsprung disease,Disease,36547,Disorder,79,Hearing/listening,Very frequent,Moderate
+596,858,Congenital toxoplasmosis,Disease,36547,Disorder,52,Seeing/watching,Occasional,Moderate
+12716,96092,8p inverted duplication/deletion syndrome,Malformation syndrome,36547,Disorder,79,Washing oneself,Very frequent,Severe
+97,731,Autosomal recessive polycystic kidney disease,Disease,36547,Disorder,39,Seeing/watching,Occasional,Severe
+1573,1366,Autosomal recessive palmoplantar keratoderma and congenital alopecia,Disease,36547,Disorder,4,Handling objects (fine hand use),Frequent,Unspecified
+18905,220393,Diffuse cutaneous systemic sclerosis,Clinical subtype,36554,Subtype of disorder,112,Standing,Occasional,Low
+1879,1916,Diethylstilbestrol syndrome,Malformation syndrome,36547,Disorder,6,Handling emotions and mood,Frequent,Moderate
+12449,93616,Hemoglobin H disease,Clinical subtype,36554,Subtype of disorder,10,Shopping,Occasional,Moderate
+703,117,Beh�et disease,Disease,36547,Disorder,60,Seeing/watching,Occasional,Severe
+11734,86814,Benign adult familial myoclonic epilepsy,Disease,36547,Disorder,23,Undertaking a complex/multiple task,Occasional,Low
+323,218,Darier disease,Disease,36547,Disorder,32,Learning to read,Occasional,Unspecified
+118,399,Huntington disease,Disease,36547,Disorder,105,Accessing higher education,Occasional,Moderate
+19158,231127,Beckwith-Wiedemann syndrome due to 11p15 microdeletion,Etiological subtype,36554,Subtype of disorder,9,Participating in a conversation,Occasional,Low
+12700,96076,Beckwith-Wiedemann syndrome due to 11p15 microduplication,Etiological subtype,36554,Subtype of disorder,9,Participating in a conversation,Occasional,Low
+19282,238613,Beckwith-Wiedemann syndrome due to NSD1 mutation,Etiological subtype,36554,Subtype of disorder,9,Participating in a conversation,Occasional,Low
+19155,231117,Beckwith-Wiedemann syndrome due to imprinting defect of 11p15,Etiological subtype,36554,Subtype of disorder,9,Participating in a conversation,Occasional,Low
+19159,231130,Beckwith-Wiedemann syndrome due to 11p15 translocation/inversion,Etiological subtype,36554,Subtype of disorder,9,Participating in a conversation,Occasional,Low
+19156,231120,Beckwith-Wiedemann syndrome due to CDKN1C mutation,Etiological subtype,36554,Subtype of disorder,9,Participating in a conversation,Occasional,Low
+20340,275864,Behavioral variant of frontotemporal dementia,Disease,36547,Disorder,71,Driving,Very frequent,Severe
+12817,96193,Beckwith-Wiedemann syndrome due to paternal uniparental disomy of chromosome 11,Etiological subtype,36554,Subtype of disorder,9,Participating in a conversation,Occasional,Low
+701,221,Dermatomyositis,Disease,36547,Disorder,60,Standing,Frequent,Moderate
+879,1656,Dermatitis herpetiformis,Disease,36547,Disorder,9,Sitting,Occasional,Low
+14543,99970,Dedifferentiated liposarcoma,Histopathological subtype,36554,Subtype of disorder,55,Standing,Very frequent,Severe
+1023,392,Holt-Oram syndrome,Malformation syndrome,36547,Disorder,7,Reaching and catching objects,Frequent,Unspecified
+13310,98293,Hodgkin lymphoma,Clinical group,36540,Group of disorders,7,Memorizing and retrieving,Frequent,Unspecified
+3739,391,Classic Hodgkin lymphoma,Disease,36547,Disorder,7,Memorizing and retrieving,Frequent,Unspecified
+7036,891,Familial exudative vitreoretinopathy,Disease,36547,Disorder,100,Seeing/watching,Occasional,Severe
+237,107,BOR syndrome,Malformation syndrome,36547,Disorder,28,Speaking,Occasional,Unspecified
+647,388,Hirschsprung disease,Disease,36547,Disorder,5,Regulating defecation,Occasional,Unspecified
+260,116,Beckwith-Wiedemann syndrome,Malformation syndrome,36547,Disorder,9,Participating in a conversation,Occasional,Low
+1059,111,Barth syndrome,Disease,36547,Disorder,69,Acquiring language,Frequent,Moderate
+3244,110,Bardet-Biedl syndrome,Disease,36547,Disorder,65,Taking part in community life,Occasional,Moderate
+3485,782,Axenfeld-Rieger syndrome,Malformation syndrome,36547,Disorder,32,Seeing/watching,Occasional,Unspecified
+11720,85447,ATTRV30M amyloidosis,Disease,36547,Disorder,50,Seeing/watching,Frequent,Moderate
+11613,84085,Hinman syndrome,Disease,36547,Disorder,19,Regulating urination,Very frequent,Severe
+17901,171201,High isolated anorectal malformation,Morphological anomaly,36547,Disorder,34,Participating in a conversation,Frequent,Moderate
+19196,231512,Hermansky-Pudlak syndrome without pulmonary fibrosis,Clinical subtype,36554,Subtype of disorder,74,Reading,Very frequent,Severe
+19195,231500,Hermansky-Pudlak syndrome with pulmonary fibrosis,Clinical subtype,36554,Subtype of disorder,85,Seeing/watching,Occasional,Low
+10608,47045,Familial cold urticaria,Disease,36547,Disorder,51,Practicing sports,Very frequent,Moderate
+75,614,Thomsen and Becker disease,Disease,36547,Disorder,214,Maintaining a standing position,Occasional,Low
+10865,65283,Timothy syndrome,Malformation syndrome,36547,Disorder,62,Acquiring language,Very frequent,Severe
+8730,609,Tibial muscular dystrophy,Disease,36547,Disorder,12,"Performing vigorous activities (climbing, running, jumping, swimming,...)",Frequent,Moderate
+218,857,Townes-Brocks syndrome,Malformation syndrome,36547,Disorder,32,Hearing/listening,Frequent,Moderate
+13826,98809,Paroxysmal kinesigenic dyskinesia,Disease,36547,Disorder,7,Standing,Occasional,Unspecified
+12100,90797,Partial androgen insensitivity syndrome,Disease,36547,Disorder,10,Engaging in and maintaining intimate relationships,Frequent,Unspecified
+21,447,Paroxysmal nocturnal hemoglobinuria,Disease,36547,Disorder,24,Engaging in and maintaining intimate relationships,Occasional,Unspecified
+13827,98810,Paroxysmal non-kinesigenic dyskinesia,Disease,36547,Disorder,7,Standing,Occasional,Unspecified
+17902,171208,Intermediate isolated anorectal malformation,Morphological anomaly,36547,Disorder,23,Participating in a conversation,Frequent,Moderate
+21833,325124,Testicular agenesis,Morphological anomaly,36547,Disorder,4,Engaging in sexual relationships,Frequent,Moderate
+1300,983,Testicular regression syndrome,Morphological anomaly,36547,Disorder,4,Engaging in and maintaining intimate relationships,Occasional,Unspecified
+361,3307,Tetrasomy 18p,Malformation syndrome,36547,Disorder,93,Performing professional tasks,Very frequent,Complete
+11289,79263,Infantile neuronal ceroid lipofuscinosis,Disease,36547,Disorder,88,Seeing/watching,Very frequent,Severe
+20767,289860,Infantile glycine encephalopathy,Clinical subtype,36554,Subtype of disorder,80,Acquiring language,Very frequent,Severe
+9283,30925,Hereditary central diabetes insipidus,Clinical subtype,36554,Subtype of disorder,4,Regulating urination,Very frequent,Unspecified
+12136,91378,Hereditary angioedema,Clinical group,36540,Group of disorders,39,Walking long distances,Frequent,Severe
+236,774,Hereditary hemorrhagic telangiectasia,Disease,36547,Disorder,69,Practicing sports,Occasional,Moderate
+690,611,Inclusion body myositis,Disease,36547,Disorder,64,Receiving written messages,Very frequent,Severe
+360,464,Incontinentia pigmenti,Malformation syndrome,36547,Disorder,133,Writing messages,Occasional,Low
+5016,772,Infantile Refsum disease,Disease,36547,Disorder,99,Seeing/watching,Very frequent,Severe
+11913,89938,Infantile Bartter syndrome with sensorineural deafness,Clinical subtype,36554,Subtype of disorder,54,Attending mainstream school,Frequent,Severe
+921,180,Choroideremia,Disease,36547,Disorder,25,Seeing/watching,Very frequent,Severe
+16744,137914,Choanal atresia,Morphological anomaly,36547,Disorder,6,Eating,Occasional,Low
+16745,137917,"Choanal atresia, unilateral",Clinical subtype,36554,Subtype of disorder,6,Eating,Occasional,Low
+16746,137920,"Choanal atresia, bilateral",Clinical subtype,36554,Subtype of disorder,6,Eating,Occasional,Low
+14792,101081,Charcot-Marie-Tooth disease type 1A,Disease,36547,Disorder,46,Seeking employment,Occasional,Low
+605,909,Cerebrotendinous xanthomatosis,Disease,36547,Disorder,93,"Handling stress, responsabilities, emergencies and ensuring one's safety",Frequent,Unspecified
+21356,309178,"Tay-Sachs disease, B variant, infantile form",Clinical subtype,36554,Subtype of disorder,80,Receiving messages in sign language,Very frequent,Complete
+21358,309192,"Tay-Sachs disease, B variant, adult form",Clinical subtype,36554,Subtype of disorder,48,Speaking,Frequent,Moderate
+20584,284227,TEMPI syndrome,Clinical syndrome,36547,Disorder,48,Walking short distances,Frequent,Low
+3401,3162,S�zary syndrome,Disease,36547,Disorder,38,Handling objects (fine hand use),Occasional,Moderate
+11711,85414,Systemic-onset juvenile idiopathic arthritis,Disease,36547,Disorder,21,Maintaining a standing position,Frequent,Low
+12002,90291,Systemic sclerosis,Disease,36547,Disorder,112,"Managing one's health (diet, medications, prevention, needs, assistance, monitoring)",Occasional,Unspecified
+124,536,Systemic lupus erythematosus,Disease,36547,Disorder,192,Cooking/preparing meals,Frequent,Moderate
+13866,98849,Systemic mastocytosis with associated hematologic neoplasm,Disease,36547,Disorder,22,Focusing attention,Occasional,Low
+65,597,Central core disease,Disease,36547,Disorder,158,Accessing higher education,Occasional,Moderate
+17528,163703,Febrile infection-related epilepsy syndrome,Disease,36547,Disorder,84,Seeing/watching,Frequent,Severe
+1536,1305,Feingold syndrome,Malformation syndrome,36547,Disorder,31,Hearing/listening,Frequent,Low
+22634,391641,Feingold syndrome type 1,Clinical subtype,36554,Subtype of disorder,31,Carrying out administrative procedures,Occasional,Moderate
+22635,391646,Feingold syndrome type 2,Clinical subtype,36554,Subtype of disorder,31,Hearing/listening,Frequent,Low
+2141,455,Superficial epidermolytic ichthyosis,Disease,36547,Disorder,34,Walking short distances,Very frequent,Moderate
+18524,206569,Immune-mediated necrotizing myopathy,Disease,36547,Disorder,60,Standing,Frequent,Moderate
+1594,1388,Catel-Manzke syndrome,Malformation syndrome,36547,Disorder,4,Hearing/listening,Frequent,Moderate
+3525,3286,Catecholaminergic polymorphic ventricular tachycardia,Disease,36547,Disorder,8,Standing,Occasional,Low
+634,84,Fanconi anemia,Malformation syndrome,36547,Disorder,69,Seeing/watching,Occasional,Low
+1559,1340,Cardiofaciocutaneous syndrome,Malformation syndrome,36547,Disorder,83,Calculating,Very frequent,Moderate
+22197,357027,Hereditary retinoblastoma,Clinical subtype,36554,Subtype of disorder,60,Seeing/watching,Very frequent,Severe
+824,828,Stickler syndrome,Disease,36547,Disorder,36,Seeing/watching,Very frequent,Unspecified
+8,141,Canavan disease,Disease,36547,Disorder,269,Seeing/watching,Occasional,Moderate
+158,827,Stargardt disease,Disease,36547,Disorder,57,"Caring for body parts (skin, teeth, nails, hair, genitals)",Frequent,Low
+17550,163934,Atopic keratoconjunctivitis,Disease,36547,Disorder,95,Seeing/watching,Occasional,Moderate
+1649,1466,COFS syndrome,Clinical subtype,36554,Subtype of disorder,168,Learning to write,Frequent,Severe
+19111,228354,CLN8 disease,Etiological subtype,36554,Subtype of disorder,97,Controlling one's own general behaviour,Very frequent,Severe
+19114,228363,CLN6 disease,Etiological subtype,36554,Subtype of disorder,97,Seeing/watching,Very frequent,Severe
+19115,228366,CLN7 disease,Etiological subtype,36554,Subtype of disorder,97,Seeing/watching,Very frequent,Severe
+19113,228360,CLN5 disease,Etiological subtype,36554,Subtype of disorder,97,Seeing/watching,Very frequent,Severe
+104,100,Ataxia-telangiectasia,Disease,36547,Disorder,55,Handling objects (fine hand use),Very frequent,Severe
+14533,99960,Benign recurrent intrahepatic cholestasis type 1,Clinical subtype,36554,Subtype of disorder,4,Hearing/listening,Frequent,Low
+14534,99961,Benign recurrent intrahepatic cholestasis type 2,Clinical subtype,36554,Subtype of disorder,3,Engaging in paid work in a standard environment,Frequent,Low
+1007,528,Congenital generalized lipodystrophy,Disease,36547,Disorder,126,Acquiring language,Occasional,Low
+394,915,Aarskog-Scott syndrome,Malformation syndrome,36547,Disorder,115,Focusing attention,Frequent,Moderate
+190,649,Norrie disease,Malformation syndrome,36547,Disorder,51,Seeing/watching,Very frequent,Complete
+21537,314911,Severe Canavan disease,Clinical subtype,36554,Subtype of disorder,113,Learning to write,Very frequent,Complete
+13887,98870,Congenital dyserythropoietic anemia type III,Disease,36547,Disorder,23,Driving,Frequent,Moderate
+13886,98869,Congenital dyserythropoietic anemia type I,Disease,36547,Disorder,23,Staying awake,Frequent,Moderate
+13890,98873,Congenital dyserythropoietic anemia type II,Disease,36547,Disorder,22,"Performing vigorous activities (climbing, running, jumping, swimming,...)",Frequent,Moderate
+2079,312,Autosomal dominant epidermolytic ichthyosis,Disease,36547,Disorder,38,Seeing/watching,Frequent,Low
+367,610,Bethlem myopathy,Disease,36547,Disorder,62,Standing,Frequent,Moderate
+51,848,Beta-thalassemia,Disease,36547,Disorder,109,"Managing one's health (diet, medications, prevention, needs, assistance, monitoring)",Frequent,Severe
+19172,231222,Beta-thalassemia intermedia,Clinical subtype,36554,Subtype of disorder,109,Acquiring language,Occasional,Low
+19171,231214,Beta-thalassemia major,Clinical subtype,36554,Subtype of disorder,109,Acquiring language,Occasional,Low
+17869,169793,Severe hemophilia B,Clinical subtype,36554,Subtype of disorder,132,Standing,Occasional,Severe
+17872,169802,Severe hemophilia A,Clinical subtype,36554,Subtype of disorder,132,Standing,Occasional,Severe
+21922,329284,Beta-propeller protein-associated neurodegeneration,Disease,36547,Disorder,84,Seeing/watching,Frequent,Low
+212,682,Hyperkalemic periodic paralysis,Disease,36547,Disorder,233,Focusing attention,Occasional,Low
+10950,70482,Carcinoma of esophagus,Clinical group,36540,Group of disorders,19,Speaking,Occasional,Low
+12137,91385,Acquired angioedema,Clinical group,36540,Group of disorders,39,Walking long distances,Frequent,Severe
+148,15,Achondroplasia,Disease,36547,Disorder,54,Staying awake,Occasional,Low
+305,1000,Ocular albinism with late-onset sensorineural deafness,Disease,36547,Disorder,49,Seeing/watching,Very frequent,Severe
+17146,157798,Serrated polyposis syndrome,Disease,36547,Disorder,6,Regulating defecation,Very frequent,Moderate
+724,1199,Esophageal atresia,Morphological anomaly,36547,Disorder,21,Acquiring language,Occasional,Moderate
+429,124,Blackfan-Diamond anemia,Disease,36547,Disorder,7,Walking long distances,Occasional,Low
+8627,122,Birt-Hogg-Dub� syndrome,Malformation syndrome,36547,Disorder,8,"Performing vigorous activities (climbing, running, jumping, swimming,...)",Occasional,Moderate
+3404,179,Birdshot chorioretinopathy,Disease,36547,Disorder,132,Being aware of space,Frequent,Moderate
+12650,95626,Acquired central diabetes insipidus,Clinical subtype,36554,Subtype of disorder,4,Regulating urination,Very frequent,Unspecified
+123,534,Oculocerebrorenal syndrome of Lowe,Malformation syndrome,36547,Disorder,95,Seeing/watching,Frequent,Severe
+387,819,Smith-Magenis syndrome,Malformation syndrome,36547,Disorder,90,Staying awake,Very frequent,Moderate
+3574,818,Smith-Lemli-Opitz syndrome,Malformation syndrome,36547,Disorder,117,Receiving nonverbal messages,Frequent,Severe
+168,664,Ornithine transcarbamylase deficiency,Disease,36547,Disorder,79,Seeing/watching,Occasional,Severe
+11578,83468,Solitary bone cyst,Disease,36547,Disorder,8,Walking short distances,Occasional,Moderate
+13870,98853,Autosomal dominant Emery-Dreifuss muscular dystrophy,Etiological subtype,36554,Subtype of disorder,42,Writing,Occasional,Low
+17999,178029,Central diabetes insipidus,Disease,36547,Disorder,4,Regulating urination,Very frequent,Unspecified
+3423,2745,Opitz GBBB syndrome,Malformation syndrome,36547,Disorder,24,Hearing/listening,Occasional,Low
+854,131,Budd-Chiari syndrome,Disease,36547,Disorder,95,Seeing/watching,Frequent,Moderate
+18791,216796,Osteogenesis imperfecta type 1,Clinical subtype,36554,Subtype of disorder,70,Handling objects (fine hand use),Occasional,Low
+18795,216828,Osteogenesis imperfecta type 5,Clinical subtype,36554,Subtype of disorder,21,Reaching and catching objects,Occasional,Low
+18793,216812,Osteogenesis imperfecta type 3,Clinical subtype,36554,Subtype of disorder,142,Regulating urination,Frequent,Severe
+18794,216820,Osteogenesis imperfecta type 4,Clinical subtype,36554,Subtype of disorder,79,Hearing/listening,Frequent,Moderate
+13775,98758,Spinocerebellar ataxia type 6,Disease,36547,Disorder,240,Memorizing and retrieving,Occasional,Low
+13774,98757,Spinocerebellar ataxia type 3,Disease,36547,Disorder,63,Seeing/watching,Occasional,Low
+18808,217012,Spinocerebellar ataxia type 31,Disease,36547,Disorder,41,Hearing/listening,Frequent,Unspecified
+13777,98760,Spinocerebellar ataxia type 8,Disease,36547,Disorder,63,Seeing/watching,Occasional,Low
+12567,94147,Spinocerebellar ataxia type 7,Disease,36547,Disorder,127,Seeing/watching,Frequent,Moderate to severe
+13772,98755,Spinocerebellar ataxia type 1,Disease,36547,Disorder,54,Writing,Very frequent,Moderate
+13784,98767,Spinocerebellar ataxia type 11,Disease,36547,Disorder,89,Speaking,Frequent,Moderate
+13773,98756,Spinocerebellar ataxia type 2,Disease,36547,Disorder,56,Writing,Very frequent,Moderate
+1001,136,Cerebral autosomal dominant arteriopathy-subcortical infarcts-leukoencephalopathy,Disease,36547,Disorder,350,Looking after/helping others,Occasional,Moderate
+206,648,Noonan syndrome,Malformation syndrome,36547,Disorder,29,Undertaking a complex/multiple task,Frequent,Low
+19110,228349,CLN2 disease,Etiological subtype,36554,Subtype of disorder,97,Engaging in paid work in a supported/sheltered environment,Very frequent,Severe
+745,183,Eosinophilic granulomatosis with polyangiitis,Disease,36547,Disorder,44,Lifting and carrying objects,Occasional,Moderate
+19105,228329,CLN1 disease,Etiological subtype,36554,Subtype of disorder,97,Focusing attention,Very frequent,Severe
+19106,228337,CLN10 disease,Etiological subtype,36554,Subtype of disorder,97,Writing,Very frequent,Severe
+110,138,CHARGE syndrome,Malformation syndrome,36547,Disorder,155,Making decisions/taking initiatives/finding solutions,Frequent,Moderate
+14500,99927,Hydatidiform mole,Disease,36547,Disorder,5,Handling emotions and mood,Very frequent,Moderate
+23616,449291,Symptomatic form of fragile X syndrome in female carrier,Disease,36547,Disorder,85,Acquiring language,Occasional,Unspecified
+10428,36412,Hypocomplementemic urticarial vasculitis,Disease,36547,Disorder,21,"Caring for body parts (skin, teeth, nails, hair, genitals)",Frequent,Low
+664,270,Oculopharyngeal muscular dystrophy,Disease,36547,Disorder,30,Speaking,Occasional,Low
+5536,811,Shwachman-Diamond syndrome,Disease,36547,Disorder,123,Learning to write,Occasional,Low
+12018,90340,Blau syndrome,Disease,36547,Disorder,36,Reaching and catching objects,Occasional,Unspecified
+284,258,Laminin subunit alpha 2-related congenital muscular dystrophy,Malformation syndrome,36547,Disorder,162,Acquiring language,Frequent,Severe
+19266,238468,Hypohidrotic ectodermal dysplasia,Disease,36547,Disorder,81,Understanding,Occasional,Low
+211,681,Hypokalemic periodic paralysis,Disease,36547,Disorder,233,Focusing attention,Occasional,Low
+11079,75382,Oguchi disease,Malformation syndrome,36547,Disorder,8,Seeing/watching,Very frequent,Low
+125,232,Sickle cell anemia,Disease,36547,Disorder,83,Practicing sports,Very frequent,Severe
+584,813,Silver-Russell syndrome,Disease,36547,Disorder,36,Learning,Occasional,Moderate
+12522,93964,Blepharospasm-oromandibular dystonia syndrome,Disease,36547,Disorder,98,Dressing/undressing,Occasional,Moderate
+430,125,Bloom syndrome,Disease,36547,Disorder,22,Driving,Frequent,Low
+11094,75840,"Congenital muscular dystrophy, Ullrich type",Disease,36547,Disorder,95,Standing,Frequent,Moderate
+12492,93932,FG syndrome type 1,Disease,36547,Disorder,78,Seeing/watching,Very frequent,Low
+2497,661,Ondine syndrome,Disease,36547,Disorder,80,Seeing/watching,Very frequent,Low
+408,963,Acromegaly,Disease,36547,Disorder,5,Getting good quality sleep,Frequent,Moderate
+586,816,Sj�gren-Larsson syndrome,Disease,36547,Disorder,67,Acquiring language,Very frequent,Severe
+24238,468726,Severe primary trimethylaminuria,Disease,36547,Disorder,60,Learning,Frequent,Moderate
+27951,538863,Classic pyoderma gangrenosum,Clinical subtype,36554,Subtype of disorder,47,Standing,Frequent,Moderate
+27954,538872,Vegetative pyoderma gangrenosum,Clinical subtype,36554,Subtype of disorder,47,Standing,Frequent,Low
+27952,538866,Pustular pyoderma gangrenosum,Clinical subtype,36554,Subtype of disorder,47,Standing,Frequent,Moderate
+27953,538869,Bullous pyoderma gangrenosum,Clinical subtype,36554,Subtype of disorder,47,Standing,Frequent,Moderate

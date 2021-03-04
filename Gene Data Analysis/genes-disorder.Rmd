@@ -1,0 +1,81 @@
+---
+title: "Untitled"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+## Defining rare disorders of genetic origin
+
+
+```{r block, warning=FALSE, message=FALSE}
+library(ggplot2)
+library(dplyr)
+dataframe = read.csv('genesdisorder_subset.csv')
+unique(dataframe$DisorderGeneAssociationList.DisorderGeneAssociation.DisorderGeneAssociationType.Name..text)
+head(dataframe$DisorderGroup.Name..text)
+```
+
+```{r}
+gene_disorder <- dataframe %>%
+  group_by(DisorderType.Name..text,DisorderGeneAssociationList.DisorderGeneAssociation.DisorderGeneAssociationType.Name..text) %>%
+summarize(N = n(), .groups = "drop_last")
+gene_disorder
+```
+
+```{r}
+p <- ggplot(data = gene_disorder,
+            mapping = aes(x = DisorderGeneAssociationList.DisorderGeneAssociation.DisorderGeneAssociationType.Name..text,
+                          y = N))
+p + geom_col(position = "dodge") +
+  labs(x = NULL, y = "Count") +
+  coord_flip()+
+  facet_wrap(~ DisorderType.Name..text, nrow = 1)
+```
+
+```{r}
+gene_disorder2 <- dataframe %>%
+  group_by(DisorderGroup.Name..text,DisorderGeneAssociationList.DisorderGeneAssociation.DisorderGeneAssociationType.Name..text) %>%
+summarize(N = n(), .groups = "drop_last")
+gene_disorder2
+```
+
+
+
+```{r}
+p <- ggplot(data = gene_disorder2,
+            mapping = aes(x = DisorderGeneAssociationList.DisorderGeneAssociation.DisorderGeneAssociationType.Name..text,
+                          y = N))
+p + geom_col(position = "dodge") +
+  labs(x = NULL, y = "Count") +
+  coord_flip()+
+  facet_wrap(~ DisorderGroup.Name..text, nrow = 1)
+```
+
+
+```{r}
+#dataframe$DisorderType.Name..text
+gene_name  <- dataframe %>%
+  group_by(DisorderType.Name..text,DisorderGeneAssociationList.DisorderGeneAssociation.Gene.Name..text) %>%
+summarize(N = n(), .groups = "drop_last")
+gene_name
+```
+
+
+```{r sub, message=FALSE, warning=FALSE}
+library(dplyr)
+p <- ggplot(data = gene_name,
+            mapping = aes(x = DisorderType.Name..text, 
+                          y = DisorderGeneAssociationList.DisorderGeneAssociation.Gene.Name..text))
+p + geom_point() +
+    coord_flip() +
+    guides(color = FALSE) + 
+    labs(x = NULL, y = NULL) + 
+    theme(axis.text.x = element_blank(), axis.ticks.x = element_blank()) +
+    geom_label(label=gene_name$DisorderGeneAssociationList.DisorderGeneAssociation.Gene.Name..text, 
+               nudge_x = 0.25, nudge_y = 0.25, check_overlap = F)
+```
+
